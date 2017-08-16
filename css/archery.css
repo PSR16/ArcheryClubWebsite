@@ -13,3 +13,12 @@
 .colored-bg-text {
   color: white;
 }
+
+.hideme
+{
+    opacity:0;
+}
+
+.papa {
+  width: 250px;
+}
